@@ -1027,6 +1027,13 @@ def main():
             "requirements": "",
             "models_desc": "Various open models",
         },
+        {
+            "name": "CoderPlan",
+            "url": "https://coderplan.ai",
+            "credits": "Free trial credits",
+            "requirements": "",
+            "models_desc": "[Claude, GPT, Gemini, DeepSeek, Grok via OpenAI-compatible API](https://docs.coderplan.ai)",
+        },
     ]
 
     for provider in trial_providers_static:
